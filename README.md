@@ -9,9 +9,9 @@ Forum App, with a frontend built in React & Redux and a backend built in Django 
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
 
 <<<<<<< HEAD
-Check out [FRONTEND LIVE DEMO](https://movie-review-noori-frontend.herokuapp.com/)here!!
+Check out [FRONTEND LIVE DEMO]()here!!
 =======
-Check out [FRONTEND LIVE DEMO](https://movie-review-noori-frontend.herokuapp.com/) here!!
+Check out [FRONTEND LIVE DEMO]() here!!
 >>>>>>> f276936f67ace41d5ff297473e209abb78df5db6
 
 Check out [API LIVE DEMO](https://movie-review-noori-backend.herokuapp.com/) here!!
