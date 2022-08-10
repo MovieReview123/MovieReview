@@ -14,7 +14,7 @@ Check out [FRONTEND LIVE DEMO](https://movie-review-app-frontend-1.herokuapp.com
 Check out [FRONTEND LIVE DEMO](https://movie-review-app-frontend-1.herokuapp.com/) here!!
 
 
-Check out [API LIVE DEMO]() here!!
+
 
 ## Tech used
 
